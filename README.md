@@ -310,22 +310,20 @@ Visualization
 
 ---
 
-## 👨‍💻 Author
+## Contributor
 
-**Vatsal Gajera**
-
-MCA — Dharmsinh Desai University
-
-Python · Data Science · Machine Learning · Pandas · NumPy · Matplotlib · Scikit-learn
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/vatsalgajera-tech">
+        <img src="https://github.com/vatsalgajera-tech.png" width="80" style="border-radius:50%"/><br/>
+        <b>Vatsal Gajera</b>
+      </a><br/>
+      <sub>Data Science · Machine Learning</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## ⭐ Support
-
-If you find this project useful, consider giving the repository a ⭐ on GitHub!
-
----
-
-## 📌 About
-
-Machine learning project for predicting ride fare, estimated travel time, and delay risk using Python, Pandas, NumPy, Matplotlib, and Scikit-learn.
