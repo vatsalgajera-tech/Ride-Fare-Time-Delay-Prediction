@@ -323,7 +323,3 @@ Visualization
     </td>
   </tr>
 </table>
-
----
-
-## ⭐ Support
